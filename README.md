@@ -12,17 +12,29 @@ Seaborn
 
 ## Collected Data Includes
 score distribution
+
 Gender
+
 Lunch
+
 Group
+
 Parental Level of Education (Master's degree)
+
 Test preparation course
+
 Group and Test Prepration
+
 Connection between parental education and score
+
 Let's check how gender affact each score
+
 Relationship between Race and Each score
+
 Average Score by Parental level education
+
 Test preparation according to parental level of education
+
 Evaluate Students Letter_Grade
 
 ## Data Source
